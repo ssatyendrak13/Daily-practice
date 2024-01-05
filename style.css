@@ -7,3 +7,10 @@ nav{
     display: flex;
     justify-content: space-evenly;
 }
+.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: green;
+    text-align: center;
+}
