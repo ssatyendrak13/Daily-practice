@@ -14,3 +14,7 @@ nav{
     background-color: green;
     text-align: center;
 }
+.main{
+    display: flex;
+    justify-content: center;
+}
